@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "category": "web",
+    "categoryName": "Web Development",
+    "description": "Master HTML5, CSS3, JavaScript, and responsive design by building real projects.",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Python for Beginners & Data Science",
+    "category": "programming",
+    "categoryName": "Programming",
+    "description": "Learn basic Python syntax, data structures, libraries, and automated scripting.",
+    "rating": "4.8",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Data Structures & Algorithms Masterclass",
+    "category": "data",
+    "categoryName": "Data Science",
+    "description": "Crack technical interviews with thorough visual guides and step-by-step logic exercises.",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Modern JavaScript (ES6+) Guide",
+    "category": "web",
+    "categoryName": "Web Development",
+    "description": "Understand promises, async/await, DOM manipulation, and Fetch API seamlessly.",
+    "rating": "4.7",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Java Object-Oriented Programming",
+    "category": "programming",
+    "categoryName": "Programming",
+    "description": "Build strong foundations in OOP principles, classes, inheritance, and interface design.",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Data Visualization with SQL & Python",
+    "category": "data",
+    "categoryName": "Data Science",
+    "description": "Learn to query complex databases and create insightful dashboards effortlessly.",
+    "rating": "4.8",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&q=80"
+  }
+]
